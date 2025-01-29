@@ -1,0 +1,11 @@
+# Jangan upload folder node_modules (package dependencies)
+node_modules/
+
+# Jangan upload file database SQLite
+database.db
+
+# Jangan upload folder tempat menyimpan gambar yang diupload
+uploads/
+
+# Jangan upload package-lock.json (opsional, bisa diabaikan jika ingin tracking package)
+package-lock.json
