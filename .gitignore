@@ -1,0 +1,16 @@
+# Backend
+backend/node_modules/
+backend/uploads/
+backend/database.db
+backend/package-lock.json
+
+# Frontend
+frontend/node_modules/
+frontend/package-lock.json
+frontend/build/
+
+# Global
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
